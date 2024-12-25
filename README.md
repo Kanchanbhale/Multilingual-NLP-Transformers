@@ -1,1 +1,2 @@
 # Multilingual-NLP-Transformers
+I am using AI4Bharat IndicCorp data spanning 12 languages with 452 million sentences (9 billion tokens) and Indian Institute of Technology (IIT) Madras’s open source Indic-TTS dataset, a special corpus of Indian languages covering 22 major languages of India which comprises of 10000+ spoken sentences/utterances each of mono and english recorded by both Male and Female native speakers
